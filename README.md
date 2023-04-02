@@ -1,5 +1,10 @@
 # Word Cloud of Best Laptops for Machine Learning Article 
 
+
+
+![image](https://user-images.githubusercontent.com/23224784/229383344-16564585-899c-4e8e-803e-e01223618c93.png)
+
+
 # Background 
 
 Laptop specifications seem all too similar today. This project is an effort to reveal the features consumers should look for in laptops built for machine learning. 
